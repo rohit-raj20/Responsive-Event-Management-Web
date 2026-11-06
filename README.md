@@ -1,5 +1,7 @@
 # Gather — Event Management Website
 
+- Vercel Deployed link-https://responsiveweb-six.vercel.app/
+
 ## About
 
 Gather is a student project for browsing local events and registering for one. It uses HTML, CSS, and JavaScript to display event cards, search and filter events, show event details, validate registration details, and display a confirmation.
@@ -38,8 +40,6 @@ You can also open `index.html` directly, or use the VS Code Live Server extensio
 3. Choose **Other** as the framework preset and keep the root directory at the folder containing `index.html`.
 4. Leave the build and install commands blank. If asked, set the output directory to `.`.
 5. Select **Deploy**, then test the published URL.
-
-This is a static HTML/CSS/JavaScript site, so it has no build command. See [Vercel's static site build guidance](https://vercel.com/docs/builds).
 
 ## Notes
 
