@@ -41,8 +41,5 @@ You can also open `index.html` directly, or use the VS Code Live Server extensio
 4. Leave the build and install commands blank. If asked, set the output directory to `.`.
 5. Select **Deploy**, then test the published URL.
 
-## Notes
-
-The events are sample data in `js/events.js`; update them before submission. Images and fonts load from external providers and need an internet connection. Registrations are saved only in the visitor's browser; they are not sent to an event organizer.
 
 
